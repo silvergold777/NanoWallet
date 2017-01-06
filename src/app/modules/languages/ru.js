@@ -37,7 +37,7 @@ function EnglishProvider($translateProvider) {
         DASHBOARD_MARKET_INFO_CAP: 'Рыночная капитализация',
         DASHBOARD_MARKET_INFO_PRICE: 'Цена',
         DASHBOARD_MARKET_INFO_VOLUME: 'Объем за 24ч.',
-        DASHBOARD_MARKET_INFO_CHANGES: 'Изменение в процентах',
+        DASHBOARD_MARKET_INFO_CHANGES: 'Изменения в процентах',
         DASHBOARD_MARKET_INFO_CHANGES_1H: '1ч',
         DASHBOARD_MARKET_INFO_CHANGES_24H: '24ч',
         DASHBOARD_MARKET_INFO_CHANGES_7D: '7д',
