@@ -5,7 +5,7 @@ function EnglishProvider($translateProvider) {
 
         // HEADER COMPONENT
         APP_NAME_SUB: 'Безопасный интерфейс соединения с платформой NEM',
-        HEADER_LOGIN_BUTTON: 'Вход',
+        HEADER_LOGIN_BUTTON: 'ВходТест',
         HEADER_SIGNUP_BUTTON: 'Регистрация',
         HEADER_LANG_TITLE: 'Язык',
         HEADER_LANG_SELECT: 'Выбрать язык',
