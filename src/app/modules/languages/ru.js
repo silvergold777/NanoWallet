@@ -505,23 +505,23 @@ function EnglishProvider($translateProvider) {
 
         // FORM RELATED
         FORM_PASSWORD_FIELD_PLACEHOLDER: 'Введите пароль или кодовую фразу от кошелька',
-        FORM_WALLET_NAME_FIELD_PLACEHOLDER: 'Wallet name',
-        FORM_SIGNUP_PASSWORD_FIELD_PLACEHOLDER: 'Password',
-        FORM_CONFIRM_PASSWORD_FIELD_PLACEHOLDER: 'Confirm your password',
-        FORM_PASSPHRASE_FIELD_PLACEHOLDER: 'Passphrase',
-        FORM_CONFIRM_PASSPHRASE_FIELD_PLACEHOLDER: 'Confirm your passphrase',
-        FORM_ADDRESS_FIELD_PLACEHOLDER: 'Account address',
-        FORM_PRIVATE_KEY_FIELD_PLACEHOLDER: 'Private key',
-        FORM_SIDE_BTN_BALANCE: 'Balance',
+        FORM_WALLET_NAME_FIELD_PLACEHOLDER: 'Имя кошелька',
+        FORM_SIGNUP_PASSWORD_FIELD_PLACEHOLDER: 'Пароль',
+        FORM_CONFIRM_PASSWORD_FIELD_PLACEHOLDER: 'Подтвердите Ваш пароль',
+        FORM_PASSPHRASE_FIELD_PLACEHOLDER: 'Кодовая фраза',
+        FORM_CONFIRM_PASSPHRASE_FIELD_PLACEHOLDER: 'Подтвердите Вашу кодовую фразу',
+        FORM_ADDRESS_FIELD_PLACEHOLDER: 'Адресс аккаунта',
+        FORM_PRIVATE_KEY_FIELD_PLACEHOLDER: 'Привантный ключ',
+        FORM_SIDE_BTN_BALANCE: 'Баланс',
         FORM_SIDE_BTN_PAY_TO: 'Pay to',
         FORM_SIDE_BTN_TX_FEE: 'Transaction fee',
         FORM_SIDE_BTN_RENTAL_FEE: 'Rental fee',
         FORM_SIDE_BTN_LEVY_FEE: 'Levy fee',
-        FORM_RECIPIENT_PLACEHOLDER: 'Recipient address or @alias',
-        FORM_INVOICE_RECIPIENT_PLACEHOLDER: 'Recipient address',
+        FORM_RECIPIENT_PLACEHOLDER: 'Адрес получателя или @alias',
+        FORM_INVOICE_RECIPIENT_PLACEHOLDER: 'Адрес получателя',
         FORM_SIDE_BTN_ALIAS_OF: 'Alias of',
-        FORM_MESSAGE_PLACEHOLDER: 'Message',
-        FORM_MOSAIC_NAME_PLACEHOLDER: 'Mosaic name'
+        FORM_MESSAGE_PLACEHOLDER: 'Сообщение',
+        FORM_MOSAIC_NAME_PLACEHOLDER: 'Имя Mosaic'
     });
 
 }
