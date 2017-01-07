@@ -504,7 +504,7 @@ function EnglishProvider($translateProvider) {
         FAQ_ANSWER_7_5: 'Apostille services funds:',
 
         // FORM RELATED
-        FORM_PASSWORD_FIELD_PLACEHOLDER: 'Enter your wallet password or passphrase',
+        FORM_PASSWORD_FIELD_PLACEHOLDER: 'Введите пароль или кодовую фразу от кошелька',
         FORM_WALLET_NAME_FIELD_PLACEHOLDER: 'Wallet name',
         FORM_SIGNUP_PASSWORD_FIELD_PLACEHOLDER: 'Password',
         FORM_CONFIRM_PASSWORD_FIELD_PLACEHOLDER: 'Confirm your password',
